@@ -1,1 +1,113 @@
-
+{
+  "reservationId": "10000509_0037",
+  "referenceId": 1,
+  "status": "Commit",
+  "createdAt": "2026-07-09T08:09:13",
+  "modifiedAt": "2026-07-09T08:11:55",
+  "reservation_notif_id": "1783584721.2635570",
+  "hotel": {
+    "name": "Bal Samand Lake Palace",
+    "code": "1059",
+    "chain": "WelcomeHeritage"
+  },
+  "bookingSource": {
+    "name": "DIRECT GUEST",
+    "channel": "UNIT (DIRECT PAYMENT)"
+  },
+  "guest": {
+    "id": "1417",
+    "name": {
+      "title": "Mr.",
+      "firstName": "Sunil",
+      "lastName": "Rungta"
+    },
+    "contact": {
+      "phone": "9331021030",
+      "email": "sunilmeha@gmail.com"
+    },
+    "address": {
+      "type": "Home",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "postalCode": "700064",
+      "country": "India"
+    }
+  },
+  "stay": {
+    "checkIn": "2026-12-26",
+    "checkOut": "2026-12-28",
+    "nights": 2
+  },
+  "rooms": [
+    {
+      "roomTypeCode": "10591",
+      "ratePlanCode": "105901",
+      "mealPlan": "CP",
+      "adults": 2,
+      "children": 0,
+      "rate": {
+        "baseAmount": 17760,
+        "taxAmount": 3196,
+        "totalAmount": 20956,
+        "currency": "INR",
+        "taxInclusive": true
+      },
+      "remarks": "Remarks, Discount 0, Other Charges",
+      "specialRequest": ""
+    },
+    {
+      "roomTypeCode": "10591",
+      "ratePlanCode": "105901",
+      "mealPlan": "CP",
+      "adults": 2,
+      "children": 0,
+      "rate": {
+        "baseAmount": 17760,
+        "taxAmount": 3196,
+        "totalAmount": 20956,
+        "currency": "INR",
+        "taxInclusive": true
+      },
+      "remarks": "Remarks, Discount 0, Other Charges",
+      "specialRequest": ""
+    },
+    {
+      "roomTypeCode": "10591",
+      "ratePlanCode": "105901",
+      "mealPlan": "CP",
+      "adults": 2,
+      "children": 0,
+      "rate": {
+        "baseAmount": 17760,
+        "taxAmount": 3196,
+        "totalAmount": 20956,
+        "currency": "INR",
+        "taxInclusive": true
+      },
+      "remarks": "Remarks, Discount 0, Other Charges",
+      "specialRequest": ""
+    },
+    {
+      "roomTypeCode": "10591",
+      "ratePlanCode": "105901",
+      "mealPlan": "CP",
+      "adults": 2,
+      "children": 0,
+      "rate": {
+        "baseAmount": 17760,
+        "taxAmount": 3196,
+        "totalAmount": 20956,
+        "currency": "INR",
+        "taxInclusive": true
+      },
+      "remarks": "Remarks, Discount 0, Other Charges",
+      "specialRequest": ""
+    }
+  ],
+  "summary": {
+    "totalBeforeTax": 0,
+    "totalTax": 0,
+    "totalAfterTax": 0,
+    "currency": "INR"
+  }
+}
